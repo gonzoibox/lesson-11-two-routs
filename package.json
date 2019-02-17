@@ -1,0 +1,23 @@
+{
+  "name": "lesson-11-two-routs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzoibox/lesson-11-two-routs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonzoibox/lesson-11-two-routs/issues"
+  },
+  "homepage": "https://github.com/gonzoibox/lesson-11-two-routs#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

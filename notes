@@ -1,0 +1,14 @@
+HTTP MIDDLEWARE (ПОСРЕДНИКИ)
+
+Framework - Express.js
+
+http://expressjs.com/ru/starter/generator.html
+
+http://laravel.su/docs/5.2/middleware
+
+1. Создать в Экспрессе 2 роутера
+
+Один роутер отдаёт 
+html- страницу с js, а второй отдаёт любую инфу.
+
+С первого роутера забрать инфу со второго и вывести её в браузерную консоль.
