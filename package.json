@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/gonzoibox/lesson-11-two-routs#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security"
   }
 }
